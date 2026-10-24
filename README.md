@@ -1,3 +1,9 @@
+# SUPERSEDED — same original human already submitted a stronger LangChain candidate from VM1
+
+This VM3 experiment was completed and tested independently within the same one-human owner fleet, but an original VM1 developer account had **already** published the canonical LangChain x402 integration on 2026-10-24 before VM3 started: https://github.com/livastic-vm1-primary/blockchainiq-langchain-x402-20261024 (45 deterministic tests, original commit 36894f4e). VM1 had ALSO already sent the original one-owner non-claim eligibility email to partnerships@blockchainiq.co at 2026-10-24 13:44 UTC (2026-10-24 22:44 KST). This VM3 repository is a **DUPLICATE, NOT a second builder, second independent claim, second slot or additional earnings**. Do not contact the sponsor again for LangChain or submit this repo separately. The original VM1 code/email is canonical, no real live paid transaction exists, and no bounty has been won. Repository archived as historical source comparison only.
+
+---
+
 # Blockchain IQ paid brief — independent LangChain x402 adapter
 
 An original AI-assisted LangChain DynamicStructuredTool for the official Blockchain IQ $525 USDC framework integration bounty announced 23 October 2026:
